@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(../gallery.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(gallery.jpg);
     font-family: Century Gothic;
     font-size: 14px;
     color:#000;
